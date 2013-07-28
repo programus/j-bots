@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="robocode.api/src/main/java"/>
+	<classpathentry kind="src" path="robocode.battle/src/main/java"/>
+	<classpathentry kind="src" path="robocode.host/src/main/java"/>
+	<classpathentry kind="src" path="robocode.installer/src/main/java"/>
+	<classpathentry kind="src" path="robocode.repository/src/main/java"/>
+	<classpathentry kind="src" path="robocode.roborumble/src/main/java"/>
+	<classpathentry kind="src" path="robocode.sound/src/main/java"/>
+	<classpathentry kind="src" path="robocode.sound/src/main/resources"/>
+	<classpathentry kind="src" path="robocode.ui/src/main/java"/>
+	<classpathentry kind="src" path="robocode.ui/src/main/resources"/>
+	<classpathentry kind="src" path="robocode.ui.editor/src/main/java"/>
+	<classpathentry kind="src" path="robocode.core/src/main/java"/>
+	<classpathentry kind="src" path="robocode.core/src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="var" path="ROBOCODE_HOME/libs/picocontainer-2.14.2.jar"/>
+	<classpathentry kind="var" path="ROBOCODE_HOME/libs/codesize-1.1.jar"/>
+	<classpathentry kind="output" path="robocode.jar"/>
+</classpath>
